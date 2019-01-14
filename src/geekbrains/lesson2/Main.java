@@ -70,7 +70,7 @@ public class Main {
         // Проверка
         System.out.println("7)");
         int[] vect7 = {1, 2, 3, 4, 5};
-        shift(vect7, 3);
+        shift(vect7, 2);
         System.out.println(Arrays.toString(vect7));
     }
 
